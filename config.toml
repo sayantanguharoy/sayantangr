@@ -1,7 +1,7 @@
 # Adapted from serene v2.1.2
-base_url = "https://sayantangr.net"
+base_url = "https://sayantan.org"
 title = "Sayantan Guha Roy"
-description = "Code Coffee Life"
+description = "Telecom Buff | Code | Coffee | Life"
 default_language = "en"
 output_dir = "public"
 compile_sass = true
